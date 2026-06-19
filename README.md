@@ -21,3 +21,10 @@ Project completed and tested successfully in simulation.
 
 ## Author
 Godson Daniel
+## Simulation
+
+Run the project online using Wokwi:
+
+[Wokwi Simulation
+
+https://wokwi.com/projects/467225988827074561
